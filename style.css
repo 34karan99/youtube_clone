@@ -1,0 +1,96 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.pp{
+
+    border-radius: 100%;
+}
+.youtube{
+    display: flex;
+}
+.topnav{
+    display: flex;
+}
+.search_bar{
+    width: 25vw;
+}
+.label{
+    margin-bottom: 0vw;
+    font-size: 1.5vw;
+    padding: 0%;
+}
+.layer{
+    display: flex;
+}
+h2{
+    margin-left: 2vw;
+    margin-right: 6vw;
+    font-size: medium;
+}
+h4{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size:  14px;
+    word-wrap: break-word;
+    white-space: normal;
+}
+h6{
+    margin-top: 0;
+    margin-bottom: 0;
+    color: gray;
+}
+.videos_layer{
+    display: flex;
+    padding-bottom: -2rem;
+    margin-left: 2rem;
+    background: #f8f4f480;
+}
+.buttons{
+    justify-content: space-between;
+    margin-bottom: 1vw;
+    display: flex;
+}
+button{
+    border-radius: 900px;
+    border-width: 0.1rem;
+    size: 10vw;
+}
+.banner{
+    display: flex;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-color: black;
+    
+}
+.details{
+    display: flex;
+}
+.one_video{
+  /* padding-left: 1rem; */
+  /* margin-right: 0rem; */
+  margin: 1rem;
+  height: 12rem;
+  width: 15rem;
+  
+}
+.written{
+    margin-top: 0%;
+}
+.image{
+    height: 8rem;
+    width: 15rem;
+}
+.options{
+
+}
+h2,button:hover {
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.one_video:hover{
+    cursor: pointer;
+    
+}
